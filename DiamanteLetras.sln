@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiamanteLetras", "DiamanteLetras\DiamanteLetras.csproj", "{B68DD029-C24D-40D6-890A-234DE6CECFAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B68DD029-C24D-40D6-890A-234DE6CECFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B68DD029-C24D-40D6-890A-234DE6CECFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B68DD029-C24D-40D6-890A-234DE6CECFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B68DD029-C24D-40D6-890A-234DE6CECFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D62633E-6B8F-40D8-9535-B4C8A422E9F4}
+	EndGlobalSection
+EndGlobal
